@@ -1,5 +1,5 @@
 #  
-# Template Dtd 11-09-19
+# Template Dtd 11-16-19 
 # 
 # See http://help.github.com/ignore-files/ for more about ignoring files
 #
@@ -551,6 +551,10 @@ paket-files/
 /e2e/*.js
 /e2e/*.map
 #
+# Git
+# .git
+# .github
+# 
 # Gradle
 *.iml
 .gradle
